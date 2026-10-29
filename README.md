@@ -1,11 +1,8 @@
-# portfolio
-Personal portfolio of Prashant Mishra – Python Backend Engineer (FastAPI, Microservices, AWS, LLM)
-
 [Home](#top)[Experience](#work)[Skills](#skills)[Projects](#projects)[Contact](#contact)
 
 Python Backend Engineer · Remote-first
 
-# Prashant Mishra
+# Prashant Mishra-Portfolio
 
 I build FastAPI and Flask microservices that stay fast under load. Four years shipping government-scale and enterprise backends, now adding LLM integration on top.
 
